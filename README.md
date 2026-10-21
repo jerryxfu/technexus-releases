@@ -20,6 +20,6 @@ Each version has its own folder, with four files:
 
 With winget:
 
-    winget install Team3990.TechNexus
+    winget install Jerryxf.TechNexus
 
 Or download an installer from `latest/` and run it. It installs for your account only, with no administrator rights needed.
